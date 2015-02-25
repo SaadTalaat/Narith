@@ -7,9 +7,3 @@
 
 ### Usage ###
 Narith still is under development.. currently the only interactive interface is CLI
-
-
-### Authors ###
-Members of Lemma
-=======
-### Narith ###
